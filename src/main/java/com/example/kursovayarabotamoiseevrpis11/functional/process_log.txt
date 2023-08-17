@@ -1,0 +1,2473 @@
+ started at 2023-05-14T16:33:58.030376500
+ started at 2023-05-14T16:33:58.042372700
+ started at 2023-05-14T16:33:58.042372700
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.043373400
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+ started at 2023-05-14T16:33:58.044370600
+C:\Windows\System32\sihost.exe started at 2023-05-14T16:33:58.044370600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.046372700
+ started at 2023-05-14T16:33:58.046372700
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-14T16:33:58.046372700
+ started at 2023-05-14T16:33:58.047372100
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.047372100
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.048377200
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.049375900
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+C:\Windows\explorer.exe started at 2023-05-14T16:33:58.050375600
+ started at 2023-05-14T16:33:58.050375600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.051374100
+ started at 2023-05-14T16:33:58.051374100
+ started at 2023-05-14T16:33:58.051374100
+ started at 2023-05-14T16:33:58.051374100
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-14T16:33:58.051374100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.051374100
+ started at 2023-05-14T16:33:58.052374800
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-14T16:33:58.052374800
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.052374800
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.052374800
+ started at 2023-05-14T16:33:58.053374600
+ started at 2023-05-14T16:33:58.053374600
+C:\Windows\System32\dllhost.exe started at 2023-05-14T16:33:58.053374600
+ started at 2023-05-14T16:33:58.053374600
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-14T16:33:58.053374600
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-14T16:33:58.053374600
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-14T16:33:58.054372800
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-14T16:33:58.054372800
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-14T16:33:58.054372800
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-14T16:33:58.054372800
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+ started at 2023-05-14T16:33:58.055371800
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.055371800
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-14T16:33:58.056373400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.056373400
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-14T16:33:58.057374300
+ started at 2023-05-14T16:33:58.057374300
+ started at 2023-05-14T16:33:58.057374300
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-14T16:33:58.057374300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.057374300
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-14T16:33:58.058375100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.058375100
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-14T16:33:58.058375100
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-14T16:33:58.059377200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.059377200
+ started at 2023-05-14T16:33:58.059377200
+ started at 2023-05-14T16:33:58.059377200
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-14T16:33:58.059377200
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-14T16:33:58.060374600
+C:\Windows\splwow64.exe started at 2023-05-14T16:33:58.060374600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:33:58.060374600
+ started at 2023-05-14T16:33:58.060374600
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-14T16:33:58.061373400
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-14T16:33:58.061373400
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:33:58.061373400
+ started at 2023-05-14T16:33:58.062374400
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-14T16:33:58.062374400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:33:58.062374400
+ started at 2023-05-14T16:33:58.062374400
+ started at 2023-05-14T16:33:58.062374400
+ started at 2023-05-14T16:33:58.062374400
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:33:58.063372200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:33:58.063372200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:33:58.063372200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:33:58.064374
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:33:58.064374
+ started at 2023-05-14T16:33:58.064374
+ started at 2023-05-14T16:33:58.065374200
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-14T16:33:58.065374200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.065374200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.065374200
+ started at 2023-05-14T16:33:58.065374200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.065374200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.066373
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.066373
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.066373
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.066373
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:33:58.067374300
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:33:58.067374300
+ started at 2023-05-14T16:33:58.067374300
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:33:58.067374300
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:33:58.068373300
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-14T16:33:58.068373300
+ started at 2023-05-14T16:33:58.068373300
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:33:58.068373300
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:33:58.068373300
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:33:58.069375500
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:33:58.069375500
+ started at 2023-05-14T16:34:45.504628400
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.541629200
+ started at 2023-05-14T16:34:45.542629100
+ started at 2023-05-14T16:34:45.542629100
+ started at 2023-05-14T16:34:45.542629100
+ started at 2023-05-14T16:34:45.542629100
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.543628500
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.544626800
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.545650200
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+ started at 2023-05-14T16:34:45.546627400
+C:\Windows\System32\sihost.exe started at 2023-05-14T16:34:45.546627400
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.547626600
+ started at 2023-05-14T16:34:45.548626800
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-14T16:34:45.548626800
+ started at 2023-05-14T16:34:45.549626900
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.549626900
+ started at 2023-05-14T16:34:45.549626900
+ started at 2023-05-14T16:34:45.549626900
+ started at 2023-05-14T16:34:45.549626900
+ started at 2023-05-14T16:34:45.549626900
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.550628400
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.551625200
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:34:45.551625200
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.552626800
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-14T16:34:45.552626800
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.553626300
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.554624200
+ started at 2023-05-14T16:34:45.555624900
+ started at 2023-05-14T16:34:45.555624900
+C:\Windows\explorer.exe started at 2023-05-14T16:34:45.557625500
+ started at 2023-05-14T16:34:45.557625500
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.557625500
+ started at 2023-05-14T16:34:45.558627900
+ started at 2023-05-14T16:34:45.558627900
+ started at 2023-05-14T16:34:45.558627900
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-14T16:34:45.558627900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.558627900
+ started at 2023-05-14T16:34:45.558627900
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-14T16:34:45.558627900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.558627900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.559625300
+ started at 2023-05-14T16:34:45.559625300
+ started at 2023-05-14T16:34:45.559625300
+C:\Windows\System32\dllhost.exe started at 2023-05-14T16:34:45.559625300
+ started at 2023-05-14T16:34:45.559625300
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-14T16:34:45.559625300
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-14T16:34:45.559625300
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-14T16:34:45.560626100
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-14T16:34:45.560626100
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-14T16:34:45.560626100
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-14T16:34:45.561625800
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-14T16:34:45.561625800
+ started at 2023-05-14T16:34:45.561625800
+ started at 2023-05-14T16:34:45.561625800
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.561625800
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+ started at 2023-05-14T16:34:45.562626600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.562626600
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-14T16:34:45.562626600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.563627100
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-14T16:34:45.564624200
+ started at 2023-05-14T16:34:45.564624200
+ started at 2023-05-14T16:34:45.564624200
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-14T16:34:45.564624200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.564624200
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-14T16:34:45.565630500
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.566630500
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-14T16:34:45.567625800
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-14T16:34:45.567625800
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.567625800
+ started at 2023-05-14T16:34:45.568627300
+ started at 2023-05-14T16:34:45.568627300
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-14T16:34:45.568627300
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-14T16:34:45.568627300
+C:\Windows\splwow64.exe started at 2023-05-14T16:34:45.569623900
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:34:45.569623900
+ started at 2023-05-14T16:34:45.569623900
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-14T16:34:45.569623900
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-14T16:34:45.570626
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:34:45.570626
+ started at 2023-05-14T16:34:45.570626
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-14T16:34:45.570626
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.571625
+ started at 2023-05-14T16:34:45.571625
+ started at 2023-05-14T16:34:45.571625
+ started at 2023-05-14T16:34:45.571625
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:34:45.571625
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:34:45.571625
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:34:45.572625400
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:34:45.572625400
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:34:45.572625400
+ started at 2023-05-14T16:34:45.573625300
+ started at 2023-05-14T16:34:45.573625300
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-14T16:34:45.573625300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.573625300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.573625300
+ started at 2023-05-14T16:34:45.574625900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.574625900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.574625900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.574625900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.575628200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.575628200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:34:45.575628200
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:34:45.576627
+ started at 2023-05-14T16:34:45.576627
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:34:45.576627
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:34:45.576627
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-14T16:34:45.577626500
+ started at 2023-05-14T16:34:45.577626500
+ started at 2023-05-14T16:34:45.577626500
+ started at 2023-05-14T16:34:45.577626500
+ started at 2023-05-14T16:34:45.577626500
+C:\Windows\System32\backgroundTaskHost.exe started at 2023-05-14T16:34:45.577626500
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:34:45.577626500
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:34:45.578627500
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:34:45.578627500
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:34:45.578627500
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:34:45.578627500
+C:\Windows\System32\notepad.exe started at 2023-05-14T16:38:13.640361100
+C:\Windows\System32\cmd.exe started at 2023-05-14T16:38:22.384844100
+Count System process: 220 in time: 2023-05-14T16:46:01.470007200
+ started at 2023-05-14T16:50:40.992187200
+C:\Windows\System32\sihost.exe started at 2023-05-14T16:50:40.992187200
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:40.993185600
+ started at 2023-05-14T16:50:40.993185600
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-14T16:50:40.993185600
+ started at 2023-05-14T16:50:40.993185600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:40.993185600
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.994188300
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.995188400
+C:\Windows\explorer.exe started at 2023-05-14T16:50:40.995188400
+ started at 2023-05-14T16:50:40.996187900
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:40.996187900
+ started at 2023-05-14T16:50:40.996187900
+ started at 2023-05-14T16:50:40.996187900
+ started at 2023-05-14T16:50:40.996187900
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-14T16:50:40.996187900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:40.996187900
+ started at 2023-05-14T16:50:40.997188700
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-14T16:50:40.997188700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:40.997188700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:40.997188700
+ started at 2023-05-14T16:50:40.997188700
+ started at 2023-05-14T16:50:40.997188700
+C:\Windows\System32\dllhost.exe started at 2023-05-14T16:50:40.997188700
+ started at 2023-05-14T16:50:40.997188700
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-14T16:50:40.997188700
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-14T16:50:40.998189900
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-14T16:50:40.998189900
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-14T16:50:40.998189900
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-14T16:50:40.998189900
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-14T16:50:40.998189900
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+ started at 2023-05-14T16:50:40.999187300
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:40.999187300
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-14T16:50:40.999187300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:41.000188100
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-14T16:50:41.000188100
+ started at 2023-05-14T16:50:41.000188100
+ started at 2023-05-14T16:50:41.000188100
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-14T16:50:41.000188100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:41.001189500
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-14T16:50:41.001189500
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:41.001189500
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-14T16:50:41.001189500
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-14T16:50:41.002190700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:41.002190700
+ started at 2023-05-14T16:50:41.002190700
+ started at 2023-05-14T16:50:41.002190700
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-14T16:50:41.002190700
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-14T16:50:41.002190700
+C:\Windows\splwow64.exe started at 2023-05-14T16:50:41.002190700
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:50:41.003187200
+ started at 2023-05-14T16:50:41.003187200
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-14T16:50:41.003187200
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-14T16:50:41.003187200
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:50:41.003187200
+ started at 2023-05-14T16:50:41.004193
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-14T16:50:41.004193
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:50:41.004193
+ started at 2023-05-14T16:50:41.004193
+ started at 2023-05-14T16:50:41.004193
+ started at 2023-05-14T16:50:41.004193
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:50:41.004193
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:50:41.004193
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:50:41.004193
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:50:41.005187600
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:50:41.005187600
+ started at 2023-05-14T16:50:41.005187600
+ started at 2023-05-14T16:50:41.005187600
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-14T16:50:41.005187600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.005187600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.006187800
+ started at 2023-05-14T16:50:41.006187800
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.006187800
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.006187800
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.006187800
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.007188600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.007188600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:50:41.007188600
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:50:41.007188600
+ started at 2023-05-14T16:50:41.007188600
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:50:41.007188600
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-14T16:50:41.008187
+ started at 2023-05-14T16:50:41.008187
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-14T16:50:41.008187
+ started at 2023-05-14T16:50:41.008187
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:50:41.008187
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:50:41.008187
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:50:41.008187
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:50:41.009187100
+ started at 2023-05-14T16:59:38.862405400
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.863417500
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.864405300
+C:\Windows\System32\sihost.exe started at 2023-05-14T16:59:38.864405300
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.864405300
+ started at 2023-05-14T16:59:38.865405700
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.865405700
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:59:38.865405700
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.866404600
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+C:\Windows\explorer.exe started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+ started at 2023-05-14T16:59:38.867406700
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-14T16:59:38.867406700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.868405400
+ started at 2023-05-14T16:59:38.868405400
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-14T16:59:38.868405400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.868405400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.868405400
+ started at 2023-05-14T16:59:38.868405400
+ started at 2023-05-14T16:59:38.868405400
+C:\Windows\System32\dllhost.exe started at 2023-05-14T16:59:38.868405400
+ started at 2023-05-14T16:59:38.869406300
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-14T16:59:38.869406300
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-14T16:59:38.869406300
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-14T16:59:38.869406300
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-14T16:59:38.869406300
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-14T16:59:38.869406300
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-14T16:59:38.870404900
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-14T16:59:38.870404900
+ started at 2023-05-14T16:59:38.870404900
+ started at 2023-05-14T16:59:38.870404900
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.870404900
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+ started at 2023-05-14T16:59:38.871404600
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.871404600
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-14T16:59:38.871404600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.871404600
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-14T16:59:38.872408300
+ started at 2023-05-14T16:59:38.872408300
+ started at 2023-05-14T16:59:38.872408300
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-14T16:59:38.872408300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.872408300
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-14T16:59:38.872408300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.872408300
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-14T16:59:38.873400500
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-14T16:59:38.873400500
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.873400500
+ started at 2023-05-14T16:59:38.873400500
+ started at 2023-05-14T16:59:38.873400500
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-14T16:59:38.873400500
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-14T16:59:38.874400700
+C:\Windows\splwow64.exe started at 2023-05-14T16:59:38.874400700
+C:\Windows\System32\svchost.exe started at 2023-05-14T16:59:38.874400700
+ started at 2023-05-14T16:59:38.874400700
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-14T16:59:38.874400700
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-14T16:59:38.875403100
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:59:38.875403100
+ started at 2023-05-14T16:59:38.875403100
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-14T16:59:38.875403100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T16:59:38.875403100
+ started at 2023-05-14T16:59:38.875403100
+ started at 2023-05-14T16:59:38.875403100
+ started at 2023-05-14T16:59:38.875403100
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:59:38.876402800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:59:38.876402800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:59:38.876402800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:59:38.876402800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T16:59:38.876402800
+ started at 2023-05-14T16:59:38.877401900
+ started at 2023-05-14T16:59:38.877401900
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-14T16:59:38.877401900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.877401900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.877401900
+ started at 2023-05-14T16:59:38.877401900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.877401900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.878403400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.878403400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.878403400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.878403400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T16:59:38.878403400
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T16:59:38.879402300
+ started at 2023-05-14T16:59:38.879402300
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:59:38.879402300
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:59:38.879402300
+ started at 2023-05-14T16:59:38.879402300
+ started at 2023-05-14T16:59:38.879402300
+ started at 2023-05-14T16:59:38.879402300
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:59:38.880403600
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:59:38.880403600
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T16:59:38.880403600
+C:\Windows\System32\conhost.exe started at 2023-05-14T16:59:38.880403600
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.130289100
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+ started at 2023-05-14T17:00:14.131286700
+C:\Windows\System32\sihost.exe started at 2023-05-14T17:00:14.131286700
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.132233700
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.133233
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-14T17:00:14.133233
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+C:\Windows\explorer.exe started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+ started at 2023-05-14T17:00:14.134233600
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-14T17:00:14.135234200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.135234200
+ started at 2023-05-14T17:00:14.135234200
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-14T17:00:14.135234200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.135234200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.136235200
+ started at 2023-05-14T17:00:14.136235200
+ started at 2023-05-14T17:00:14.136235200
+C:\Windows\System32\dllhost.exe started at 2023-05-14T17:00:14.136235200
+ started at 2023-05-14T17:00:14.136235200
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-14T17:00:14.136235200
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-14T17:00:14.136235200
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-14T17:00:14.137238
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-14T17:00:14.137238
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-14T17:00:14.137238
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-14T17:00:14.137238
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-14T17:00:14.137238
+ started at 2023-05-14T17:00:14.137238
+ started at 2023-05-14T17:00:14.137238
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.137238
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.138235800
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.138235800
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-14T17:00:14.138235800
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.138235800
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-14T17:00:14.138235800
+ started at 2023-05-14T17:00:14.139236300
+ started at 2023-05-14T17:00:14.139236300
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-14T17:00:14.139236300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.139236300
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-14T17:00:14.139236300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.139236300
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-14T17:00:14.139236300
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-14T17:00:14.140235400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.140235400
+ started at 2023-05-14T17:00:14.140235400
+ started at 2023-05-14T17:00:14.140235400
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-14T17:00:14.140235400
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-14T17:00:14.140235400
+C:\Windows\splwow64.exe started at 2023-05-14T17:00:14.140235400
+C:\Windows\System32\svchost.exe started at 2023-05-14T17:00:14.140235400
+ started at 2023-05-14T17:00:14.141235600
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-14T17:00:14.141235600
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-14T17:00:14.141235600
+C:\Windows\System32\conhost.exe started at 2023-05-14T17:00:14.141235600
+ started at 2023-05-14T17:00:14.141235600
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-14T17:00:14.141235600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-14T17:00:14.141235600
+ started at 2023-05-14T17:00:14.142234300
+ started at 2023-05-14T17:00:14.142234300
+ started at 2023-05-14T17:00:14.142234300
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T17:00:14.142234300
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T17:00:14.142234300
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T17:00:14.142234300
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T17:00:14.142234300
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-14T17:00:14.142234300
+ started at 2023-05-14T17:00:14.143235300
+ started at 2023-05-14T17:00:14.143235300
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-14T17:00:14.143235300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.143235300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.143235300
+ started at 2023-05-14T17:00:14.143235300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.143235300
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.144237100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.144237100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.144237100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.144237100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-14T17:00:14.144237100
+C:\Windows\System32\taskhostw.exe started at 2023-05-14T17:00:14.144237100
+ started at 2023-05-14T17:00:14.145233700
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T17:00:14.145233700
+C:\Windows\System32\conhost.exe started at 2023-05-14T17:00:14.145233700
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T17:00:14.145233700
+C:\Windows\System32\conhost.exe started at 2023-05-14T17:00:14.145233700
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-14T17:00:14.145233700
+C:\Windows\System32\conhost.exe started at 2023-05-14T17:00:14.146232800
+ started at 2023-05-15T12:34:42.510519200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+ started at 2023-05-15T12:34:42.511526200
+C:\Windows\System32\sihost.exe started at 2023-05-15T12:34:42.511526200
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.512516
+ started at 2023-05-15T12:34:42.512516
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-15T12:34:42.512516
+ started at 2023-05-15T12:34:42.512516
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.512516
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+C:\Windows\System32\taskhostw.exe started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.513518
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.514518400
+C:\Windows\explorer.exe started at 2023-05-15T12:34:42.514518400
+ started at 2023-05-15T12:34:42.515516600
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.515516600
+ started at 2023-05-15T12:34:42.515516600
+ started at 2023-05-15T12:34:42.515516600
+ started at 2023-05-15T12:34:42.515516600
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-15T12:34:42.515516600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.515516600
+ started at 2023-05-15T12:34:42.516518100
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-15T12:34:42.516518100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.516518100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.516518100
+ started at 2023-05-15T12:34:42.516518100
+ started at 2023-05-15T12:34:42.516518100
+C:\Windows\System32\dllhost.exe started at 2023-05-15T12:34:42.516518100
+ started at 2023-05-15T12:34:42.516518100
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-15T12:34:42.517516200
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-15T12:34:42.517516200
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-15T12:34:42.517516200
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-15T12:34:42.517516200
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-15T12:34:42.517516200
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-15T12:34:42.518516400
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+ started at 2023-05-15T12:34:42.518516400
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.518516400
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-15T12:34:42.518516400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.519517
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-15T12:34:42.519517
+ started at 2023-05-15T12:34:42.519517
+ started at 2023-05-15T12:34:42.519517
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-15T12:34:42.519517
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.520516900
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-15T12:34:42.520516900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.520516900
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-15T12:34:42.521519700
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-15T12:34:42.521519700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.522516100
+ started at 2023-05-15T12:34:42.522516100
+ started at 2023-05-15T12:34:42.522516100
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-15T12:34:42.522516100
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-15T12:34:42.522516100
+C:\Windows\splwow64.exe started at 2023-05-15T12:34:42.522516100
+C:\Windows\System32\svchost.exe started at 2023-05-15T12:34:42.522516100
+ started at 2023-05-15T12:34:42.523515800
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-15T12:34:42.523515800
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-15T12:34:42.523515800
+C:\Windows\System32\conhost.exe started at 2023-05-15T12:34:42.523515800
+ started at 2023-05-15T12:34:42.523515800
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-15T12:34:42.524519200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T12:34:42.524519200
+ started at 2023-05-15T12:34:42.524519200
+ started at 2023-05-15T12:34:42.524519200
+ started at 2023-05-15T12:34:42.524519200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T12:34:42.524519200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T12:34:42.524519200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T12:34:42.525516600
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T12:34:42.525516600
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T12:34:42.525516600
+ started at 2023-05-15T12:34:42.525516600
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-15T12:34:42.525516600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.526519600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.526519600
+ started at 2023-05-15T12:34:42.526519600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.526519600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.527517900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.527517900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.527517900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.527517900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.528517
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.528517
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.528517
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.528517
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.528517
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.529516500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.529516500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.529516500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.529516500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T12:34:42.530516300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.530516300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.530516300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.530516300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.530516300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.531516500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T12:34:42.531516500
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T12:34:42.531516500
+C:\Users\ReGf\AppData\Roaming\Telegram Desktop\Telegram.exe started at 2023-05-15T12:34:42.531516500
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23032.186.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe started at 2023-05-15T12:34:42.531516500
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+C:\Windows\System32\taskhostw.exe started at 2023-05-15T12:34:42.532516200
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+ started at 2023-05-15T12:34:42.532516200
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-15T12:34:42.532516200
+C:\Windows\System32\conhost.exe started at 2023-05-15T12:34:42.532516200
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-15T12:34:42.533522800
+C:\Windows\System32\conhost.exe started at 2023-05-15T12:34:42.533522800
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-15T12:34:45.172171200
+Count System process: 244 in time: 2023-05-15T12:34:46.971520
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-15T12:35:03.546494200
+C:\Windows\System32\control.exe started at 2023-05-15T12:35:20.254874900
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.578842
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.579839600
+C:\Windows\System32\sihost.exe started at 2023-05-15T14:39:07.579839600
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.579839600
+ started at 2023-05-15T14:39:07.580839800
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.580839800
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+C:\Windows\System32\taskhostw.exe started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.581840
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+C:\Windows\explorer.exe started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.582841100
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.582841100
+ started at 2023-05-15T14:39:07.583845400
+ started at 2023-05-15T14:39:07.583845400
+ started at 2023-05-15T14:39:07.583845400
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-15T14:39:07.583845400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.583845400
+ started at 2023-05-15T14:39:07.584842
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-15T14:39:07.584842
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.584842
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.584842
+ started at 2023-05-15T14:39:07.584842
+ started at 2023-05-15T14:39:07.584842
+C:\Windows\System32\dllhost.exe started at 2023-05-15T14:39:07.584842
+ started at 2023-05-15T14:39:07.584842
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-15T14:39:07.584842
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-15T14:39:07.585843
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-15T14:39:07.585843
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-15T14:39:07.585843
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-15T14:39:07.586840300
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-15T14:39:07.586840300
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-15T14:39:07.586840300
+ started at 2023-05-15T14:39:07.586840300
+ started at 2023-05-15T14:39:07.586840300
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.586840300
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.587839600
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.587839600
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-15T14:39:07.587839600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.587839600
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-15T14:39:07.587839600
+ started at 2023-05-15T14:39:07.588839700
+ started at 2023-05-15T14:39:07.588839700
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-15T14:39:07.588839700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.588839700
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-15T14:39:07.588839700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.589840400
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-15T14:39:07.589840400
+ started at 2023-05-15T14:39:07.589840400
+ started at 2023-05-15T14:39:07.589840400
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-15T14:39:07.589840400
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-15T14:39:07.589840400
+C:\Windows\splwow64.exe started at 2023-05-15T14:39:07.589840400
+C:\Windows\System32\svchost.exe started at 2023-05-15T14:39:07.590838400
+ started at 2023-05-15T14:39:07.590838400
+ started at 2023-05-15T14:39:07.590838400
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-15T14:39:07.590838400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.590838400
+ started at 2023-05-15T14:39:07.591843900
+ started at 2023-05-15T14:39:07.591843900
+ started at 2023-05-15T14:39:07.591843900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T14:39:07.591843900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T14:39:07.591843900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T14:39:07.591843900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T14:39:07.591843900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-15T14:39:07.591843900
+ started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.592840100
+ started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.592840100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.593838200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.593838200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.593838200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.593838200
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.594841500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.594841500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.594841500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.594841500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.594841500
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-15T14:39:07.595837900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-15T14:39:07.595837900
+C:\Users\ReGf\AppData\Roaming\Telegram Desktop\Telegram.exe started at 2023-05-15T14:39:07.595837900
+ started at 2023-05-15T14:39:07.595837900
+C:\Windows\System32\taskhostw.exe started at 2023-05-15T14:39:07.595837900
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.595837900
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.596841300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.596841300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.596841300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.596841300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.596841300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.597841200
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-15T14:39:07.597841200
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-15T14:39:07.597841200
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-15T14:39:07.597841200
+C:\Windows\System32\conhost.exe started at 2023-05-15T14:39:07.598842300
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-15T14:39:07.598842300
+C:\Windows\System32\conhost.exe started at 2023-05-15T14:39:07.598842300
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-15T14:39:07.598842300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-15T14:39:07.598842300
+ started at 2023-05-15T14:39:07.599838600
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-15T14:39:07.599838600
+C:\SceneBuilder\SceneBuilder.exe started at 2023-05-15T14:39:07.599838600
+ started at 2023-05-15T14:39:07.599838600
+ started at 2023-05-15T14:39:07.599838600
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-15T14:39:07.599838600
+C:\Windows\System32\conhost.exe started at 2023-05-15T14:39:07.599838600
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-15T14:39:07.599838600
+C:\Windows\System32\conhost.exe started at 2023-05-15T14:39:07.600841200
+ started at 2023-05-15T14:39:07.600841200
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-15T14:39:42.730763300
+Count System process: 240 in time: 2023-05-15T14:39:45.708238500
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-16T09:40:20.875472300
+ started at 2023-05-16T09:40:25.811876600
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.812878700
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+ started at 2023-05-16T09:40:25.813905600
+C:\Windows\System32\sihost.exe started at 2023-05-16T09:40:25.813905600
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.814976400
+ started at 2023-05-16T09:40:25.815607400
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.815607400
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.815607400
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+C:\Windows\System32\taskhostw.exe started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.816681900
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-16T09:40:25.816681900
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.817683300
+C:\Windows\explorer.exe started at 2023-05-16T09:40:25.817683300
+ started at 2023-05-16T09:40:25.818751600
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.818751600
+ started at 2023-05-16T09:40:25.819259900
+ started at 2023-05-16T09:40:25.819259900
+ started at 2023-05-16T09:40:25.819259900
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-16T09:40:25.819259900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.819259900
+ started at 2023-05-16T09:40:25.819259900
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-16T09:40:25.819259900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.820272100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.820272100
+ started at 2023-05-16T09:40:25.820272100
+ started at 2023-05-16T09:40:25.820272100
+C:\Windows\System32\dllhost.exe started at 2023-05-16T09:40:25.820272100
+ started at 2023-05-16T09:40:25.820272100
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-16T09:40:25.820272100
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-16T09:40:25.821270400
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-16T09:40:25.821270400
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-16T09:40:25.821270400
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-16T09:40:25.821270400
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-16T09:40:25.822520900
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-16T09:40:25.822520900
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+ started at 2023-05-16T09:40:25.823021400
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.823021400
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-16T09:40:25.823021400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.824035200
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-16T09:40:25.824035200
+ started at 2023-05-16T09:40:25.824035200
+ started at 2023-05-16T09:40:25.824035200
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-16T09:40:25.824035200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.825072
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-16T09:40:25.825072
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.825072
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-16T09:40:25.825072
+ started at 2023-05-16T09:40:25.825072
+ started at 2023-05-16T09:40:25.825072
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-16T09:40:25.825072
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.826190200
+ started at 2023-05-16T09:40:25.826190200
+ started at 2023-05-16T09:40:25.826190200
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-16T09:40:25.826190200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.826190200
+ started at 2023-05-16T09:40:25.826190200
+ started at 2023-05-16T09:40:25.826190200
+ started at 2023-05-16T09:40:25.826190200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-16T09:40:25.827159900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-16T09:40:25.827408500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-16T09:40:25.827408500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-16T09:40:25.827911900
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-16T09:40:25.827911900
+ started at 2023-05-16T09:40:25.827911900
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-16T09:40:25.827911900
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-16T09:40:25.827911900
+C:\Windows\System32\conhost.exe started at 2023-05-16T09:40:25.828921300
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-16T09:40:25.829045400
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-16T09:40:25.829476600
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-16T09:40:25.829476600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.829476600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.829476600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.829476600
+ started at 2023-05-16T09:40:25.829476600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.830485100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.830588700
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.830588700
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.830588700
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-16T09:40:25.830588700
+C:\Windows\System32\rundll32.exe started at 2023-05-16T09:40:25.830588700
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.830588700
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.831709100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.831709100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.831709100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.831709100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-16T09:40:25.831709100
+C:\Users\ReGf\AppData\Roaming\Telegram Desktop\Telegram.exe started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+C:\Windows\System32\taskhostw.exe started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+C:\Windows\System32\svchost.exe started at 2023-05-16T09:40:25.832707
+ started at 2023-05-16T09:40:25.832707
+C:\Windows\System32\smartscreen.exe started at 2023-05-16T09:40:25.832707
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-16T09:40:25.832707
+C:\Windows\System32\conhost.exe started at 2023-05-16T09:40:25.833709400
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-16T09:40:25.833709400
+C:\Windows\System32\conhost.exe started at 2023-05-16T09:40:25.833709400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-16T09:40:25.833709400
+C:\Windows\System32\conhost.exe started at 2023-05-16T09:40:25.833709400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-16T09:40:27.203372
+Count System process: 232 in time: 2023-05-16T09:40:29.223729
+C:\Windows\System32\notepad.exe started at 2023-05-16T12:02:33.201300
+C:\Windows\System32\cmd.exe started at 2023-05-16T12:02:40.049153500
+C:\Windows\System32\notepad.exe started at 2023-05-16T12:02:43.153810900
+Count System process: 215 in time: 2023-05-18T11:47:37.587659500
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-18T11:47:42.276319700
+ started at 2023-05-18T11:49:02.253334700
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.254336400
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255330
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.255927300
+ started at 2023-05-18T11:49:02.256426500
+ started at 2023-05-18T11:49:02.256426500
+ started at 2023-05-18T11:49:02.256426500
+ started at 2023-05-18T11:49:02.256426500
+C:\Windows\System32\sihost.exe started at 2023-05-18T11:49:02.256426500
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.256934700
+ started at 2023-05-18T11:49:02.257430700
+ started at 2023-05-18T11:49:02.257430700
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-18T11:49:02.257430700
+ started at 2023-05-18T11:49:02.258008100
+ started at 2023-05-18T11:49:02.258008100
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.258008100
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.258543500
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259037700
+C:\Windows\System32\taskhostw.exe started at 2023-05-18T11:49:02.259037700
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.259591300
+ started at 2023-05-18T11:49:02.260089300
+ started at 2023-05-18T11:49:02.260089300
+ started at 2023-05-18T11:49:02.260089300
+ started at 2023-05-18T11:49:02.260089300
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-18T11:49:02.260089300
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.260546900
+ started at 2023-05-18T11:49:02.261038800
+ started at 2023-05-18T11:49:02.261038800
+ started at 2023-05-18T11:49:02.261038800
+ started at 2023-05-18T11:49:02.261038800
+C:\Windows\explorer.exe started at 2023-05-18T11:49:02.261038800
+ started at 2023-05-18T11:49:02.261474900
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.261474900
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-18T11:49:02.261976100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.262475700
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-18T11:49:02.262475700
+ started at 2023-05-18T11:49:02.263093700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.263093700
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-18T11:49:02.263659200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.263659200
+ started at 2023-05-18T11:49:02.264249700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.264249700
+ started at 2023-05-18T11:49:02.264763600
+ started at 2023-05-18T11:49:02.264763600
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23032.186.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe started at 2023-05-18T11:49:02.264763600
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-18T11:49:02.265065800
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-18T11:49:02.265486200
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-18T11:49:02.266287
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-18T11:49:02.266823400
+ started at 2023-05-18T11:49:02.267791900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.267791900
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-18T11:49:02.267791900
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.267791900
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-18T11:49:02.268825600
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-18T11:49:02.268825600
+ started at 2023-05-18T11:49:02.268825600
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-18T11:49:02.268825600
+ started at 2023-05-18T11:49:02.269822400
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-18T11:49:02.269822400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-18T11:49:02.269822400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-18T11:49:02.269822400
+ started at 2023-05-18T11:49:02.270822500
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-18T11:49:02.270822500
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-18T11:49:02.270822500
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-18T11:49:02.270822500
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+ started at 2023-05-18T11:49:02.271828800
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.271828800
+C:\Windows\System32\SystemSettingsBroker.exe started at 2023-05-18T11:49:02.271828800
+C:\Users\ReGf\AppData\Roaming\Telegram Desktop\Telegram.exe started at 2023-05-18T11:49:02.271828800
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-18T11:49:02.272823500
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-18T11:49:02.272823500
+ started at 2023-05-18T11:49:02.272823500
+ started at 2023-05-18T11:49:02.272823500
+ started at 2023-05-18T11:49:02.272823500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-18T11:49:02.272823500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-18T11:49:02.273821200
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-18T11:49:02.274060600
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-18T11:49:02.274060600
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-18T11:49:02.274060600
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-18T11:49:02.274060600
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-18T11:49:02.275103400
+C:\Windows\System32\conhost.exe started at 2023-05-18T11:49:02.275103400
+C:\Windows\splwow64.exe started at 2023-05-18T11:49:02.275103400
+C:\Windows\System32\svchost.exe started at 2023-05-18T11:49:02.276099300
+ started at 2023-05-18T11:49:02.276099300
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-18T11:49:02.276099300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.276099300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.276099300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.277157700
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.277157700
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.277157700
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.277157700
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.278185300
+ started at 2023-05-18T11:49:02.278185300
+ started at 2023-05-18T11:49:02.278185300
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-18T11:49:02.278185300
+ started at 2023-05-18T11:49:02.278185300
+C:\Windows\System32\taskhostw.exe started at 2023-05-18T11:49:02.278185300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.278185300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+C:\Windows\System32\backgroundTaskHost.exe started at 2023-05-18T11:49:02.279194700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+ started at 2023-05-18T11:49:02.279194700
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-18T11:49:02.279194700
+C:\Windows\System32\conhost.exe started at 2023-05-18T11:49:02.280183600
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-18T11:49:02.280183600
+C:\Windows\System32\conhost.exe started at 2023-05-18T11:49:02.280183600
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-18T11:49:21.485232400
+Count System process: 219 in time: 2023-05-18T11:49:44.553117800
+Count System process: 224 in time: 2023-05-22T14:11:28.506449600
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-22T14:11:30.277865600
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-22T14:11:31.729233400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-22T14:11:34.461954500
+C:\Windows\System32\control.exe started at 2023-05-22T14:11:40.166929
+Count System process: 231 in time: 2023-05-23T13:10:49.473992500
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-23T13:10:51.476135900
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-27T14:56:37.666520200
+Count System process: 235 in time: 2023-05-27T14:56:44.522835400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-27T14:56:47.027223300
+ started at 2023-05-27T14:56:48.394422300
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+ started at 2023-05-27T14:56:48.395459600
+C:\Windows\System32\sihost.exe started at 2023-05-27T14:56:48.395459600
+C:\Windows\System32\svchost.exe started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+C:\Windows\System32\svchost.exe started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+C:\Windows\System32\taskhostw.exe started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.396425900
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-27T14:56:48.396425900
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.397425400
+C:\Windows\explorer.exe started at 2023-05-27T14:56:48.397425400
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+C:\Windows\System32\svchost.exe started at 2023-05-27T14:56:48.398427
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-27T14:56:48.398427
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.398427
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-27T14:56:48.398427
+ started at 2023-05-27T14:56:48.398427
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.398427
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.399424500
+ started at 2023-05-27T14:56:48.399424500
+ started at 2023-05-27T14:56:48.399424500
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-27T14:56:48.399424500
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-27T14:56:48.399424500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-27T14:56:48.399424500
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-27T14:56:48.400424800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-27T14:56:48.400424800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-27T14:56:48.400424800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-27T14:56:48.400424800
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-27T14:56:48.400424800
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-27T14:56:48.401424700
+ started at 2023-05-27T14:56:48.401424700
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-27T14:56:48.401424700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.401424700
+ started at 2023-05-27T14:56:48.401424700
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-27T14:56:48.401424700
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-27T14:56:48.401424700
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-27T14:56:48.402422200
+ started at 2023-05-27T14:56:48.402422200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-27T14:56:48.402422200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-27T14:56:48.402422200
+ started at 2023-05-27T14:56:48.402422200
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-27T14:56:48.402422200
+C:\Windows\System32\svchost.exe started at 2023-05-27T14:56:48.402422200
+C:\Windows\System32\svchost.exe started at 2023-05-27T14:56:48.403422100
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-27T14:56:48.403422100
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-27T14:56:48.403422100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+ started at 2023-05-27T14:56:48.403422100
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-27T14:56:48.403422100
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-27T14:56:48.404423100
+ started at 2023-05-27T14:56:48.404423100
+ started at 2023-05-27T14:56:48.404423100
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-27T14:56:48.404423100
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.404423100
+ started at 2023-05-27T14:56:48.404423100
+ started at 2023-05-27T14:56:48.404423100
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-27T14:56:48.404423100
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-27T14:56:48.405424700
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.405424700
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-27T14:56:48.405424700
+C:\Windows\splwow64.exe started at 2023-05-27T14:56:48.405424700
+ started at 2023-05-27T14:56:48.405424700
+ started at 2023-05-27T14:56:48.405424700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-27T14:56:48.405424700
+ started at 2023-05-27T14:56:48.406423900
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at 2023-05-27T14:56:48.406423900
+C:\Windows\System32\dllhost.exe started at 2023-05-27T14:56:48.406423900
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.406423900
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.406423900
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.406423900
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.407423
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.407423
+ started at 2023-05-27T14:56:48.407423
+C:\Windows\System32\taskhostw.exe started at 2023-05-27T14:56:48.407423
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.407423
+C:\Users\ReGf\AppData\Local\Figma\app-116.9.5\Figma.exe started at 2023-05-27T14:56:48.407423
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-27T14:56:48.408422400
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.408422400
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-27T14:56:48.408422400
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.408422400
+ started at 2023-05-27T14:56:48.408422400
+ started at 2023-05-27T14:56:48.408422400
+ started at 2023-05-27T14:56:48.408422400
+ started at 2023-05-27T14:56:48.408422400
+ started at 2023-05-27T14:56:48.408422400
+C:\Program Files\WindowsApps\CanonicalGroupLimited.Ubuntu_2204.2.33.0_x64__79rhkp1fndgsc\ubuntu.exe started at 2023-05-27T14:56:48.408422400
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.409423
+ started at 2023-05-27T14:56:48.409423
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe started at 2023-05-27T14:56:48.409423
+ started at 2023-05-27T14:56:48.409423
+ started at 2023-05-27T14:56:48.409423
+ started at 2023-05-27T14:56:48.409423
+C:\Windows\System32\dllhost.exe started at 2023-05-27T14:56:48.409423
+C:\Windows\System32\dllhost.exe started at 2023-05-27T14:56:48.409423
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslrelay.exe started at 2023-05-27T14:56:48.409423
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe started at 2023-05-27T14:56:48.410423700
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.410423700
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe started at 2023-05-27T14:56:48.410423700
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.410423700
+C:\Windows\System32\wsl.exe started at 2023-05-27T14:56:48.410423700
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\msrdc.exe started at 2023-05-27T14:56:48.411423300
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wsl.exe started at 2023-05-27T14:56:48.411423300
+C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe started at 2023-05-27T14:56:48.411423300
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.411423300
+C:\Windows\System32\SearchProtocolHost.exe started at 2023-05-27T14:56:48.411423300
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-27T14:56:48.412421900
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.412421900
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-27T14:56:48.412421900
+C:\Windows\System32\conhost.exe started at 2023-05-27T14:56:48.412421900
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-27T14:56:51.733915800
+Count System process: 247 in time: 2023-05-29T18:21:46.622928700
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-29T18:21:48.935937200
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.417443100
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418342900
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+ started at 2023-05-29T18:21:50.418840600
+C:\Windows\System32\sihost.exe started at 2023-05-29T18:21:50.418840600
+C:\Windows\System32\svchost.exe started at 2023-05-29T18:21:50.420041100
+ started at 2023-05-29T18:21:50.421084900
+ started at 2023-05-29T18:21:50.421084900
+C:\Windows\System32\svchost.exe started at 2023-05-29T18:21:50.421084900
+ started at 2023-05-29T18:21:50.421683800
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at 2023-05-29T18:21:50.421683800
+ started at 2023-05-29T18:21:50.422219700
+ started at 2023-05-29T18:21:50.422219700
+C:\Windows\System32\taskhostw.exe started at 2023-05-29T18:21:50.422219700
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.422722
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at 2023-05-29T18:21:50.422722
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423342600
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.423841
+C:\Windows\explorer.exe started at 2023-05-29T18:21:50.423841
+ started at 2023-05-29T18:21:50.424536900
+ started at 2023-05-29T18:21:50.424536900
+ started at 2023-05-29T18:21:50.424536900
+ started at 2023-05-29T18:21:50.424536900
+ started at 2023-05-29T18:21:50.424536900
+ started at 2023-05-29T18:21:50.425035900
+ started at 2023-05-29T18:21:50.425035900
+C:\Windows\System32\svchost.exe started at 2023-05-29T18:21:50.425035900
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at 2023-05-29T18:21:50.425377300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.426059200
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at 2023-05-29T18:21:50.426381900
+ started at 2023-05-29T18:21:50.426802300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.426802300
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at 2023-05-29T18:21:50.426802300
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.427556
+ started at 2023-05-29T18:21:50.427812500
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.427812500
+ started at 2023-05-29T18:21:50.427812500
+ started at 2023-05-29T18:21:50.427812500
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at 2023-05-29T18:21:50.428315200
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at 2023-05-29T18:21:50.428533800
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-29T18:21:50.429277
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-29T18:21:50.429775700
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-29T18:21:50.429775700
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-29T18:21:50.429775700
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at 2023-05-29T18:21:50.430792700
+C:\Windows\System32\RtkAudUService64.exe started at 2023-05-29T18:21:50.430792700
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at 2023-05-29T18:21:50.430792700
+ started at 2023-05-29T18:21:50.431983200
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at 2023-05-29T18:21:50.431983200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.432480
+ started at 2023-05-29T18:21:50.432480
+C:\Program Files (x86)\Steam\steam.exe started at 2023-05-29T18:21:50.432480
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.432480
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.433579600
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.434077100
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.434577100
+ started at 2023-05-29T18:21:50.434805900
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.434805900
+C:\Windows\System32\ApplicationFrameHost.exe started at 2023-05-29T18:21:50.435332700
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at 2023-05-29T18:21:50.435332700
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.436019
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.436019
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.436521400
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at 2023-05-29T18:21:50.437052100
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at 2023-05-29T18:21:50.437551100
+C:\Windows\System32\svchost.exe started at 2023-05-29T18:21:50.437551100
+C:\Windows\System32\CompPkgSrv.exe started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+ started at 2023-05-29T18:21:50.438049900
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at 2023-05-29T18:21:50.438049900
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+C:\Windows\System32\svchost.exe started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+ started at 2023-05-29T18:21:50.439567200
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe started at 2023-05-29T18:21:50.439567200
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.440991600
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2023.10030.27002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe started at 2023-05-29T18:21:50.440991600
+C:\Windows\System32\RuntimeBroker.exe started at 2023-05-29T18:21:50.441991100
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at 2023-05-29T18:21:50.441991100
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at 2023-05-29T18:21:50.441991100
+C:\Windows\System32\conhost.exe started at 2023-05-29T18:21:50.442990400
+C:\Users\ReGf\AppData\Roaming\Telegram Desktop\Telegram.exe started at 2023-05-29T18:21:50.442990400
+C:\Users\ReGf\AppData\Local\Programs\incogniton\Incogniton.exe started at 2023-05-29T18:21:50.443828400
+C:\Users\ReGf\AppData\Local\Programs\incogniton\Incogniton.exe started at 2023-05-29T18:21:50.444338200
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.444338200
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.444338200
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.444338200
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.445582600
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.446089300
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.446433400
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.446433400
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.446933700
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\99\win\chrome.exe started at 2023-05-29T18:21:50.447432
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.447432
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.447432
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.448565700
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.448565700
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.448565700
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.449666500
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.450283100
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.450283100
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.450997400
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.450997400
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.451496400
+C:\Users\ReGf\AppData\Roaming\Incogniton\Incogniton\browser\107\win\chrome.exe started at 2023-05-29T18:21:50.451496400
+ started at 2023-05-29T18:21:50.451496400
+ started at 2023-05-29T18:21:50.451496400
+C:\Windows\System32\dllhost.exe started at 2023-05-29T18:21:50.451496400
+ started at 2023-05-29T18:21:50.452515500
+C:\Windows\System32\taskhostw.exe started at 2023-05-29T18:21:50.452515500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.452515500
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.453244800
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.453751
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.454247300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.454247300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.454247300
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.455519700
+C:\Program Files\Google\Chrome\Application\chrome.exe started at 2023-05-29T18:21:50.455519700
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.456519100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.456519100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.456519100
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.457518300
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.458091200
+ started at 2023-05-29T18:21:50.458091200
+C:\Users\ReGf\AppData\Local\Discord\app-1.0.9013\Discord.exe started at 2023-05-29T18:21:50.458586400
+ started at 2023-05-29T18:21:50.458586400
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-29T18:21:50.458586400
+C:\Windows\System32\conhost.exe started at 2023-05-29T18:21:50.459084200
+C:\Program Files\Java\jdk-17\bin\java.exe started at 2023-05-29T18:21:50.459764300
+C:\Windows\System32\conhost.exe started at 2023-05-29T18:21:50.460262100
+ started at 2023-05-29T18:21:50.460468400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-29T18:21:50.460468400
+C:\Windows\System32\conhost.exe started at 2023-05-29T18:21:50.461011700
+Count System process: 232 in time: 2023-05-29T20:20:03.913957300
+C:\Windows\System32\notepad.exe started at 2023-05-29T20:20:10.645784
+C:\Windows\System32\cmd.exe started at 2023-05-29T20:20:14.922886700
+C:\Windows\System32\notepad.exe started at 2023-05-29T20:22:24.542444500
+C:\Windows\System32\cmd.exe started at 2023-05-29T20:22:28.114100300
+C:\Windows\System32\notepad.exe started at 2023-05-29T20:22:55.677919400
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-31T00:36:16.821257100
+C:\Windows\System32\NETSTAT.EXE started at 2023-05-31T00:36:23.680065
+Count System process: 214 in time: 2023-05-31T00:36:25.549407100
+Count System process: 248 in time: 2023-06-07T14:48:46.947241100
+C:\Windows\System32\NETSTAT.EXE started at 2023-06-07T14:48:49.184476400

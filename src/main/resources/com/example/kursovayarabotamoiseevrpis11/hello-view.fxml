@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioMenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="713.0" prefWidth="934.0" style="-fx-background-color: #2F3348;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.kursovayarabotamoiseevrpis11.Controll">
+   <children>
+      <TextField fx:id="directory" layoutX="740.0" layoutY="82.0" onAction="#insert_directory" prefHeight="32.0" prefWidth="192.0" promptText="/tmp/..." style="-fx-background-color: black;">
+         <contextMenu>
+            <ContextMenu>
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#open_provodnick" text="Проводник" />
+                  <MenuItem mnemonicParsing="false" onAction="#open_cmd_panel" text="Выполнить в консоли" />
+              </items>
+            </ContextMenu>
+         </contextMenu></TextField>
+      <Button fx:id="bdirectory" layoutX="551.0" layoutY="82.0" mnemonicParsing="false" onAction="#out_directory" prefHeight="32.0" prefWidth="182.0" text="Out Directory" />
+      <MenuBar layoutX="-1.0" layoutY="-2.0" prefHeight="32.0" prefWidth="934.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#close" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#style1" text="Ded inside style" />
+                  <MenuItem mnemonicParsing="false" onAction="#style2" text="Fio style" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="About">
+            <items>
+              <MenuItem fx:id="About" mnemonicParsing="false" onAction="#Info_study" text="Project" />
+                  <MenuItem mnemonicParsing="false" onAction="#hotkeys" text="Hotkeys" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <Button fx:id="bnext" layoutX="6.0" layoutY="82.0" mnemonicParsing="false" onAction="#next" prefHeight="32.0" prefWidth="142.0" text="Вперед &gt;" />
+      <TextField fx:id="cmd" layoutX="237.0" layoutY="82.0" onAction="#cmd_command_panel" prefHeight="32.0" prefWidth="305.0" promptText="Команда" style="-fx-background-color: black;">
+         <contextMenu>
+            <ContextMenu />
+         </contextMenu>
+      </TextField>
+      <Button fx:id="bcmd" layoutX="155.0" layoutY="82.0" mnemonicParsing="false" onAction="#print_command" prefHeight="32.0" prefWidth="74.0" style="-fx-background-color: black;" text="cmd $" textFill="WHITE" />
+      <TableView fx:id="tableView" layoutX="205.0" layoutY="123.0" prefHeight="590.0" prefWidth="729.0">
+        <columns>
+          <TableColumn fx:id="nameColumn" prefWidth="208.0000762939453" text="Имя" />
+            <TableColumn fx:id="lastModColumn" minWidth="0.0" prefWidth="146.39996337890625" text="Дата изменения" />
+          <TableColumn fx:id="typeColumn" prefWidth="187.20001220703125" text="Тип" />
+            <TableColumn fx:id="sizeColumn" minWidth="7.20001220703125" prefWidth="186.4000244140625" text="Размер" />
+        </columns>
+      </TableView>
+      <TextArea fx:id="cmd_info" layoutX="6.0" layoutY="547.0" prefHeight="166.0" prefWidth="192.0">
+         <contextMenu>
+            <ContextMenu>
+              <items>
+                  <Menu mnemonicParsing="false" text="View">
+                    <items>
+                      <MenuItem mnemonicParsing="false" onAction="#open_notepad" text="Notepad" />
+                        <MenuItem mnemonicParsing="false" onAction="#open_cmd_panel" text="Cmd" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                    </items>
+                  </Menu>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                <MenuItem mnemonicParsing="false" text="Options" />
+                  <RadioMenuItem mnemonicParsing="false" text="High">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="RadioItemfunction" />
+                     </toggleGroup>
+                  </RadioMenuItem>
+                  <RadioMenuItem mnemonicParsing="false" text="Low" toggleGroup="$RadioItemfunction" />
+              </items>
+            </ContextMenu>
+         </contextMenu>
+      </TextArea>
+      <HBox layoutX="7.0" layoutY="36.0" prefHeight="32.0" prefWidth="924.0" spacing="10.0">
+         <children>
+            <Button fx:id="bmonresource" mnemonicParsing="false" onAction="#printresource" prefHeight="32.0" prefWidth="150.0" text="Мониторинг ресурсов" />
+            <Button fx:id="blinux" mnemonicParsing="false" onAction="#terminalLinux" prefHeight="32.0" prefWidth="142.0" text="Терминал Linux" />
+            <Button fx:id="bpanel" mnemonicParsing="false" onAction="#paneluprav" prefHeight="32.0" prefWidth="142.0" text="Панель управления" />
+            <Button fx:id="bBack" mnemonicParsing="false" onAction="#onBack" prefHeight="32.0" prefWidth="92.0" text="&lt;- Назад" />
+            <Button fx:id="bRefresh" mnemonicParsing="false" onAction="#onRefresh" prefHeight="32.0" prefWidth="94.0" text="Обновить" />
+            <Button fx:id="bForward" mnemonicParsing="false" onAction="#onForward" prefHeight="32.0" prefWidth="98.0" text="Вперед -&gt;" />
+            <Button mnemonicParsing="false" onAction="#OnDelete" prefHeight="32.0" prefWidth="144.0" text="Удалить в корзину" />
+         </children>
+      </HBox>
+      <VBox layoutX="6.0" layoutY="123.0" prefHeight="424.0" prefWidth="192.0">
+         <children>
+            <TreeView fx:id="treeView" prefHeight="424.0" prefWidth="128.0" />
+         </children>
+      </VBox>
+      <Label layoutX="47.0" layoutY="598.0" text="Label">
+         <font>
+            <Font name="Kunstler Script" size="50.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

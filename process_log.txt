@@ -1,0 +1,220 @@
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+ started at Z
+C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_e66da585a80ae7c5\ASUSOptimization\AsusOptimizationStartupTask.exe started at Z
+C:\Windows\System32\sihost.exe started at Z
+C:\Windows\System32\svchost.exe started at Z
+ started at Z
+C:\Windows\System32\svchost.exe started at Z
+C:\Windows\System32\taskhostw.exe started at Z
+ started at Z
+ started at Z
+ started at Z
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_23e9be9389950d33\igfxEMN.exe started at Z
+C:\Windows\explorer.exe started at Z
+C:\Windows\System32\svchost.exe started at Z
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+ started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Security Cloud 21.3\avpui.exe started at Z
+C:\Windows\System32\dllhost.exe started at Z
+C:\Program Files (x86)\Steam\steam.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+ started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Common Files\DVDVideoSoft\lib\vidnotifier\vidnotifier.exe started at Z
+C:\Users\ReGf\AppData\Local\FigmaAgent\figma_agent.exe started at Z
+C:\Windows\System32\RtkAudUService64.exe started at Z
+C:\Program Files (x86)\National Instruments\Shared\NI Error Reporting\nierserver.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe started at Z
+C:\Windows\System32\ApplicationFrameHost.exe started at Z
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe started at Z
+ started at Z
+C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2212.31.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe started at Z
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe started at Z
+C:\Windows\System32\oobe\UserOOBEBroker.exe started at Z
+C:\Windows\System32\svchost.exe started at Z
+ started at Z
+ started at Z
+C:\Windows\System32\CompPkgSrv.exe started at Z
+ started at Z
+C:\Windows\System32\rundll32.exe started at Z
+C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE started at Z
+C:\Windows\splwow64.exe started at Z
+C:\Windows\System32\svchost.exe started at Z
+ started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\Google\Chrome\Application\chrome.exe started at Z
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\idea64.exe started at Z
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin\fsnotifier.exe started at Z
+C:\Windows\System32\conhost.exe started at Z
+ started at Z
+ started at Z
+ started at Z
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Windows\System32\taskhostw.exe started at Z
+ started at Z
+ started at Z
+C:\Windows\System32\RuntimeBroker.exe started at Z
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at Z
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at Z
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at Z
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at Z
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe started at Z
+ started at Z
+C:\Windows\System32\SearchProtocolHost.exe started at Z
+ started at Z
+ started at Z
+C:\Windows\System32\smartscreen.exe started at Z
+C:\Windows\System32\notepad.exe started at Z
+ started at Z
+C:\Program Files\Java\jdk-17\bin\java.exe started at Z
+C:\Windows\System32\conhost.exe started at Z
+C:\Program Files\Java\jdk-17\bin\java.exe started at Z
+C:\Windows\System32\conhost.exe started at Z
